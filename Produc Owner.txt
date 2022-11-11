@@ -1,3 +1,4 @@
+produc owner : Dzaky Faishalariq
 Tema System Forum Asdos 
 
 Analisis masalah:
@@ -19,3 +20,13 @@ c. kebuthan hadwer yang terpenuhi:
 	1. minimal server memory 4GB jalankan aplikasi
 	2. speed eksekusi minimal 1 detik
 	3. Komputer intel 2 Generasi 8
+
+
+Scrum Master : Dwinta Septiana
+
+anggota : 
+Wiwit Selasti
+Syfriza Aulia Marizky
+Igfary Try putra
+
+
