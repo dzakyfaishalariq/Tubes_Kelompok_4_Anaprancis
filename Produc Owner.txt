@@ -1,0 +1,21 @@
+Tema System Forum Asdos 
+
+Analisis masalah:
+Standar dalam pengajaran materi pratikum universitas bengkulu yang membutuhkan suatu asiten dosen yang belum terakomodir, Sehingga Dibutuhkan nya tenaga pengajar yang saling terhubung satu sama lain dalam bentuk pengajaran pratikum di universitas, dan penyediaan sarana pengajaran secara onlain bagi asisten dosen, serta untuk membagikan sebuah tugas dan materi kepada perserta mahasiswa yang mengikuti pratikum. Serta dibutuhkanya pengujian secara berkala bagi mahasiswa yang mengikuti pratikum sesuai pencapaian yang di dapat seperti membuat quis dan responsi yang  digunakan sebaga penilaian bagi mahasiswa tersebut. system ini dibutuhkan agar mempermudah jaringan antar sesama asdos yang digunakan sebagai pertukaran pemikiran (diskusi), jadi aplikasi ini membutuhkan juga fitur diskusi. Oleh sebab itu tujuan system ini dibentuk dari permasalahan tersebut.
+
+Anlisis kebutuhan :
+a. kebutuhan fungsional :
+	Sistem ini diperuntukan oleh 
+	1 .  Petugas Leb
+	2 . Asdos 
+	3 . Mahasiswa
+b. Kebutuhan nonfungsional:
+	Kenutuhan perangkat lunak :
+	1. figma
+	2 . wrod
+	3 . sketsa
+	4. Browser
+c. kebuthan hadwer yang terpenuhi:
+	1. minimal server memory 4GB jalankan aplikasi
+	2. speed eksekusi minimal 1 detik
+	3. Komputer intel 2 Generasi 8
